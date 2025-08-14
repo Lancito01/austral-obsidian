@@ -13,6 +13,5 @@ tags:
 - Mejoría en el sistema de comida
 	- Pantallas para ver que hay de comer
 	- Comprar la comida online/en una pantalla?
-
 # Primera reunión
 ![[2025-09-03 POR CONFIRMAR - Reunión con tutora TPI - Intro. a la Ingeniería]]
