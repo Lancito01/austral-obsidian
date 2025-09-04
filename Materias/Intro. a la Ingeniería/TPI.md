@@ -15,4 +15,6 @@ tags:
 	- Comprar la comida online/en una pantalla?
 # Reuniones
 ### Primera reunión
-![[2025-09-03 POR CONFIRMAR - Reunión con tutora TPI - Intro. a la Ingeniería]]
+##### Calendario
+![[2025-09-04 POR CONFIRMAR - Reunión con tutora TPI - Intro. a la Ingeniería]]
+### Segunda reunión
