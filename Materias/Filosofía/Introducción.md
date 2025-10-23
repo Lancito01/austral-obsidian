@@ -1,1 +1,0 @@
-Prof. María Florencia Ragone
