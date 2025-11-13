@@ -27,6 +27,7 @@ Esta frase nos pareció muy importante porque ayuda a comprender la problemátic
 - Personas con discapacidades
 - Gente que no quiere dar sus datos biométricos
 - Evacuaciones
+
 Gracias a que Mauro nos pudo guiar por este camino para ayudarnos a considerar el universo completo, se nos ocurrieron las aplicaciones para esos casos especiales.
 En el caso de las personas con discapacidades se las tendría en cuenta instalando, a la par de los molinetes en la entrada, una puerta motorizada de doble sentido. Esta funcionaría de la misma forma que los molinetes; con un lector de biometría.
 Luego, en el caso de la gente que no quiere dar sus datos biométricos por privacidad, se mantendría en pie el sistema de lectura del código en el DNI de cada miembro, así dando a todos una segunda opción para ingresar.
